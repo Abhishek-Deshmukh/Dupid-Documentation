@@ -1,0 +1,7 @@
+.. _Simulation:
+
+Simulation
+==========
+
+A Dupid Simulation can be intiated using the followinf commands
+

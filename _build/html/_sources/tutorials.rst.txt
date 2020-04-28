@@ -1,0 +1,17 @@
+.. _tutorials:
+
+Tutorials
+=========
+The following tutorials walk you through performing FDTD simulation
+using the Dupid library.
+
+There are 4 basic objects in a Dupid Simulation:
+
+.. toctree::
+  :maxdepth: 1
+
+  Simulation (The simulation object itself)
+  DupidSource (The electromagnetic waves generator)
+  DupidObject (The materials which interact with the the electromagnetic waves)
+  DupidSphere (A sphere object)
+  Detector (This records the electric and magnetic fields during the run time of the simulation)
